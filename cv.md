@@ -1,6 +1,6 @@
 ## Work
 
-### Executive Director, [Simply Secure](https://simplysecure.org), Sept 2018 ~ current
+### Executive Director, [Superbloom Design](https://superbloom.design), previously known as [Simply Secure](https://simplysecure.org), Sept 2018 ~ current
 
 Simply Secure supports practitioners in putting people at the center of trustworthy technology. We provide professional education for user experience designers, researchers, and developers working on privacy, security, transparency, and ethics.
 

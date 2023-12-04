@@ -1,6 +1,6 @@
 ## on the internet
 - [georgiabullen.com](georgiabullen.com)
-- [Superbloom Design](https://superbloom.design) // previously known as [Simply Secure](simplysecure.org)
+- [superbloom design](https://superbloom.design), previously known as [simply secure](simplysecure.org)
 - [superbloom shop!](https://www.redbubble.com/people/Superbloom-Dsgn/shop)
 - [ga's job list](https://groups.google.com/g/ga-list)
 - [buy me a coffee](https://www.buymeacoffee.com/georgiamoon)

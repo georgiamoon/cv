@@ -1,4 +1,4 @@
-## A Highlights List:
+## Highlights
 - [Church Brew Works](http://www.churchbrew.com)
 - [Pamela's in the Strip](http://www.pamelasdiner.com/Menus/Strip.cfm)
 - The Strip District - just walk around
@@ -9,7 +9,7 @@
 - [Park House](http://parkhousepgh.com/)
 - [Crepes Parisienne](http://www.urbanspoon.com/r/23/270443/restaurant/Shadyside/Crepes-Parisiennes-Pittsburgh)
 
-## If you have more time:
+## If you have more time...
 ### Art
 - [Mattress Factory](http://www.mattress.org/)
 - [Pittsburgh Glass Center](http://www.pittsburghglasscenter.org/)

@@ -1,6 +1,8 @@
 ## Wait, what do you mean you have a "jobs list"?
 
 > TLDR: Georgia's List — [https://groups.google.com/g/ga-list](https://groups.google.com/g/ga-list)
+>
+> I work in user experience design and research in the internet freedom/tech policy space. The jobs and resources will majority be from that ecosystem, and most of my advice is going to be about finding a job in the civic tech / public interest tech ecosystem. If that's not what you are looking for, this is less likely to be helpful to you.
 
 Finding a job is harder than it should be.
 
@@ -20,6 +22,8 @@ I recently stumbled across the term "job fairy"[1] and decided to adopt it and I
 
 ### Georgia's List
 If you are looking, hiring, also a node in the network of networks, please [subscribe](https://groups.google.com/g/ga-list), and do your part to spread the word. Feel free to share this list with others.
+
+I work in user experience design and research in the internet freedom/tech policy space. The jobs and resources will majority be from that ecosystem, and most of my advice is going to be about finding a job in the civic tech / public interest tech ecosystem. If that's not what you are looking for, this is less likely to be helpful to you.
 
 ### Where to Look
 - [Civic Tech Field Guide's Listing of Job Boards](https://directory.civictech.guide/listing-category/job-boards?_ga=2.78032861.856419295.1695722323-1920120707.1690741157&_gl=1*rowiqk*_gcl_au*NTEyMDUwNzE1LjE2OTA3NDExNTc)

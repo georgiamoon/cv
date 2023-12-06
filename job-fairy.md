@@ -33,6 +33,8 @@ I work in user experience design and research in the internet freedom/tech polic
 - [Civic Tech Field Guide's Listing of Job Boards](https://directory.civictech.guide/listing-category/job-boards?_ga=2.78032861.856419295.1695722323-1920120707.1690741157&_gl=1*rowiqk*_gcl_au*NTEyMDUwNzE1LjE2OTA3NDExNTc)
 - [Travis Moore's Policy Opportunities for Technologists Jobs](https://docs.google.com/document/d/1hOBqZHj8pd8kacosUbPCFozk4ryFN8aSHncBYvlz1Hg/edit)
 - [Words of Mouth](wordsofmouth.org)
+- Ariadne Network's [monthly newsletter](https://www.ariadne-network.eu/category/newsletters/) (also on [LinkedIn](https://www.linkedin.com/company/ariadne-network-ari/))
+- [Trust & Safety Tuesdays](https://www.linkedin.com/in/jeffmdunn/) on LinkedIn from Jeff Dunn
 - [Tekalo](https://www.tekalo.org/)
 - [Fast Forward's Job Board](https://jobs.ffwd.org/jobs)
 - [All Tech Is Human Job Board](https://alltechishuman.org/responsible-tech-job-board)
